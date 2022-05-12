@@ -15,26 +15,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\PROJECT DEMO\emailMarketingNet6\emailMarketingNet6\emailMarketingNet6
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/PROJECT DEMO/emailMarketingNet6/emailMarketingNet6/emailMarketingNet6/Views/CampaignModels/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25Nb2RlbHNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PROJECT DEMO/emailMarketingNet6/emailMarketingNet6/emailMarketingNet6/Views/CampaignModels/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25Nb2RlbHNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PROJECT DEMO/emailMarketingNet6/emailMarketingNet6/emailMarketingNet6/Views/CampaignModels/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25Nb2RlbHNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PROJECT DEMO/emailMarketingNet6/emailMarketingNet6/emailMarketingNet6/Views/CampaignModels/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25Nb2RlbHNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[F:/PROJECT DEMO/emailMarketingNet6/emailMarketingNet6/emailMarketingNet6/Views/CampaignModels/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25Nb2RlbHNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [F:/PROJECT DEMO/emailMarketingNet6/emailMarketingNet6/emailMarketingNet6/Views/Campaigns/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FtcGFpZ25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
