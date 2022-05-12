@@ -1,0 +1,23 @@
+﻿@model emailMarketingNet6.Models.TemplateModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Xem mẫu</h1>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+<div>
+    <h4>@Model.Name</h4>
+    <hr />
+   <div>
+       @Html.Raw(Model.Content)
+   </div>
+
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
