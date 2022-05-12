@@ -309,3 +309,4 @@ F:\PROJECT DEMO\emailMarketingNet6\emailMarketingNet6\emailMarketingNet6\bin\Deb
 F:\PROJECT DEMO\emailMarketingNet6\emailMarketingNet6\emailMarketingNet6\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
 F:\PROJECT DEMO\emailMarketingNet6\emailMarketingNet6\emailMarketingNet6\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
 F:\PROJECT DEMO\emailMarketingNet6\emailMarketingNet6\emailMarketingNet6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+F:\PROJECT DEMO\emailMarketingNet6\emailMarketingNet6\emailMarketingNet6\obj\Debug\net6.0\emailMarketingNet6.csproj.AssemblyReference.cache
